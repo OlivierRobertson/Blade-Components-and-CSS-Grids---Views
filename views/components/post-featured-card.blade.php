@@ -27,7 +27,7 @@
                       </span>
               </div>
           </header>
-\
+
           <div class="text-sm mt-2">
               <p>
                   {{ $post->excerpt }}
